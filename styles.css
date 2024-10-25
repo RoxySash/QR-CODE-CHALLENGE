@@ -23,7 +23,7 @@ body {
 .blue-area-behind {
     background-color: hsl(212, 45%, 89%);
     width: 4000px;
-    height: 800px;
+    height: 1000px;
     display: flex;
     flex-direction: column;
     justify-content: center;
